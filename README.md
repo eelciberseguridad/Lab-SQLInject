@@ -9,6 +9,10 @@ La aplicación utiliza **Python, Flask y SQLite** y escucha únicamente en `127.
 > ⚠️ **ADVERTENCIA**  
 > Proyecto creado exclusivamente con fines educativos y de capacitación en ciberseguridad. Utilizar únicamente en sistemas propios, laboratorios controlados o entornos expresamente autorizados. Los datos son ficticios. No exponer esta aplicación a Internet.
 
+## Que es la SQLI?
+
+SQLi (SQL Injection) es una vulnerabilidad que permite alterar una consulta a una base de datos mediante datos introducidos por el usuario, pudiendo provocar acceso no autorizado a información o manipulación de datos.
+
 ## Objetivo
 
 Recorrido del laboratorio:
