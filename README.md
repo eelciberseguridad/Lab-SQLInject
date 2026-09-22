@@ -1,6 +1,6 @@
 # EEL CIBERSEGURIDAD
 
-# Laboratorio SQL Injection desde cero
+# Laboratorio SQL Injection
 
 Laboratorio educativo para comprender de forma práctica cómo se produce una vulnerabilidad **SQL Injection**, qué ocurre cuando una aplicación incorpora de manera insegura datos controlados por el usuario dentro de una consulta SQL y cómo corregirla mediante consultas parametrizadas.
 
