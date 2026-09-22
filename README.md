@@ -209,5 +209,4 @@ La defensa fundamental consiste en mantener separados los datos y el código SQL
 ## Autor
 
 **EEL CIBERSEGURIDAD**  
-Abogado – Especialista en Entornos Digitales y Ciberseguridad  
 GitHub: `eelciberseguridad`
